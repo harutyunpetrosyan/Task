@@ -1,0 +1,21 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "Tests",
+  "repository": {
+    "private": true
+  },
+  "dependencies": {
+    "script-runner": "^0.1.8"
+  },
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
